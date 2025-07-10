@@ -7,8 +7,10 @@ function App() {
 
   useEffect(() => {
     const loadModels = async () => {
-      await faceapi.nets.tinyFaceDetector.loadFromUri('/models');
-      await faceapi.nets.faceExpressionNet.loadFromUri('/models');
+      await faceapi.nets.tinyFaceDetector.loadFromUri('./models');
+      await faceapi.nets.faceExpressionNet.loadFromUri('./models');
+
+
       startVideo();
     };
 

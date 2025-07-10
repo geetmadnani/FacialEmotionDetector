@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/FacialEmotionDetector/static/css/main.88824ec2.chunk.css",
-    "main.js": "/FacialEmotionDetector/static/js/main.d84b533f.chunk.js",
-    "main.js.map": "/FacialEmotionDetector/static/js/main.d84b533f.chunk.js.map",
+    "main.js": "/FacialEmotionDetector/static/js/main.993ace41.chunk.js",
+    "main.js.map": "/FacialEmotionDetector/static/js/main.993ace41.chunk.js.map",
     "runtime-main.js": "/FacialEmotionDetector/static/js/runtime-main.005ee6e1.js",
     "runtime-main.js.map": "/FacialEmotionDetector/static/js/runtime-main.005ee6e1.js.map",
     "static/js/2.f30dce59.chunk.js": "/FacialEmotionDetector/static/js/2.f30dce59.chunk.js",
     "static/js/2.f30dce59.chunk.js.map": "/FacialEmotionDetector/static/js/2.f30dce59.chunk.js.map",
     "index.html": "/FacialEmotionDetector/index.html",
-    "precache-manifest.cd6dd9d49d6fe0e2e288d1a728403c35.js": "/FacialEmotionDetector/precache-manifest.cd6dd9d49d6fe0e2e288d1a728403c35.js",
+    "precache-manifest.c3f94a0d4797b477cdaea0202fcd56fa.js": "/FacialEmotionDetector/precache-manifest.c3f94a0d4797b477cdaea0202fcd56fa.js",
     "service-worker.js": "/FacialEmotionDetector/service-worker.js",
     "static/css/main.88824ec2.chunk.css.map": "/FacialEmotionDetector/static/css/main.88824ec2.chunk.css.map",
     "static/js/2.f30dce59.chunk.js.LICENSE.txt": "/FacialEmotionDetector/static/js/2.f30dce59.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.005ee6e1.js",
     "static/js/2.f30dce59.chunk.js",
     "static/css/main.88824ec2.chunk.css",
-    "static/js/main.d84b533f.chunk.js"
+    "static/js/main.993ace41.chunk.js"
   ]
 }

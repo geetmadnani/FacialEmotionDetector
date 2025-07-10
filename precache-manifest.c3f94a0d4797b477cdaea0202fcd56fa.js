@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2da8b4016765ad80c694c26e41c27a3c",
+    "revision": "3a19c2faf6d7af49d1b055b31c05850c",
     "url": "/FacialEmotionDetector/index.html"
   },
   {
-    "revision": "a83c5cbfbf9ba1df46cc",
+    "revision": "b45cc92b6649f38eb22b",
     "url": "/FacialEmotionDetector/static/css/main.88824ec2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FacialEmotionDetector/static/js/2.f30dce59.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a83c5cbfbf9ba1df46cc",
-    "url": "/FacialEmotionDetector/static/js/main.d84b533f.chunk.js"
+    "revision": "b45cc92b6649f38eb22b",
+    "url": "/FacialEmotionDetector/static/js/main.993ace41.chunk.js"
   },
   {
     "revision": "75a6fc85e790bef0b749",
